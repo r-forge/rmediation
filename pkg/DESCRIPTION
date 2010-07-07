@@ -1,0 +1,11 @@
+Package: RMediation
+Type: Package
+Title: Mediation Analysis
+Version: 1.0
+Date: 2010-07-02
+Author: Dacood Tofighi
+Maintainer:Davood Tofighi <dtofighi@asu.edu>
+Depends: R (>= 2.11.0)
+Description: More about what it does (maybe more than one line)
+License:GPL-2
+LazyLoad: yes
